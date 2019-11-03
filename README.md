@@ -6,4 +6,4 @@
  
  "Still confused how it works"
 
- "Carry one bro, thanks"
+ "Carry on, thanks"
